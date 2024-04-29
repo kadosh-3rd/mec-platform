@@ -55,7 +55,6 @@ const MeetingTypeList = () => {
 				buttonText={'Start Meeting'}
 				handleClick={createMeeting}
 			/>
-			<h1>Test</h1>
 		</section>
 	);
 };
